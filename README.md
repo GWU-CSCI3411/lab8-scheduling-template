@@ -42,9 +42,9 @@ Compile xv6 and run `twoproc`. Verify that your `twoproc` produces the expected 
 
 ### Questions
 
-1.  What do we expect the output of `twoproc` to be?
+0.  **BEFORE** writing any code, what do we expect the output of `twoproc` to be?
 
-2.  How does `yield` result in the current process being rescheduled?
+1.  How does `yield` result in the current process being rescheduled?
 
 ## 3.2 Exercise 2 - Simple High Priority Scheduling Policy
 
